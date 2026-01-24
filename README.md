@@ -18,8 +18,8 @@ Sou um entusiasta de tecnologia focado em **Infraestrutura Cloud e Cultura DevOp
 No momento, minhas atividades de código e linguagens mais utilizadas são estas:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ---
