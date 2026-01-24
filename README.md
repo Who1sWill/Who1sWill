@@ -1,23 +1,26 @@
-# Olá, eu sou o William Mateus! 👋 🐱
+# Olá, eu sou o William! 👋 🐱
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/12uXi1GXpjnQUw/giphy.gif" width="300" alt="Luffy Coding/Happy" />
-  <p><i>"O Rei da Automação e da Infraestrutura!" 🏴‍☠️</i></p>
+  <img src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" width="300" alt="Luffy Coding/Happy" />
+  <p><i>"Vou me lançar ao mar!" 🏴‍☠️</i></p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim e Meus Estudos
+### 🚀 Sobre Mim
 
-Sou especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre em busca da "Última Ilha" do conhecimento tecnológico. No meu tempo livre, sou tutor do **Jojo** e da **Miumiu** e um grande fã de **One Piece**.
+Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre em busca da "Última Ilha" do conhecimento tecnológico. No meu tempo livre, sou tutor do **Jojo** e do **Miumiu** e um grande fã de **One Piece**.
+<div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a35bd6-27ab-46cd-b8f1-cacb0a51d88c/dijhtun-05bef81c-a945-40db-8e9e-ab55a329d3a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNWEzNWJkNi0yN2FiLTQ2Y2QtYjhmMS1jYWNiMGE1MWQ4OGMvZGlqaHR1bi0wNWJlZjgxYy1hOTQ1LTQwZGItOGU5ZS1hYjU1YTMyOWQzYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vkFs6SBGNTQU-lxqbYNnICT_SFWddyuKPaJPQ8HXoK8" width="300" alt="Jojo" />
+  <p><i> Jojo's say hi!</i><p>
+</div>
+
+### 📜 Meus estudos 
 
 * **🐍 Python & Scripting:** Desenvolvendo automações inteligentes e APIs modernas com **FastAPI**.
 * **🤖 Inteligência Artificial:** Expandindo o kit de ferramentas com estudos em IA e Python para **AIOps**.
-* **☁️ DevOps & Cloud:** Navegando com maestria por **Terraform, Kubernetes e Helm**.
+* **☁️ DevOps & Cloud:** Estudando para navegar com maestria por **Terraform, Kubernetes e Helm**.
 
-<div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a35bd6-27ab-46cd-b8f1-cacb0a51d88c/dijhtun-05bef81c-a945-40db-8e9e-ab55a329d3a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNWEzNWJkNi0yN2FiLTQ2Y2QtYjhmMS1jYWNiMGE1MWQ4OGMvZGlqaHR1bi0wNWJlZjgxYy1hOTQ1LTQwZGItOGU5ZS1hYjU1YTMyOWQzYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vkFs6SBGNTQU-lxqbYNnICT_SFWddyuKPaJPQ8HXoK8" width="300" alt="Jojo" />
-</div>
 
 ### 📊 Minhas Estatísticas:
 
@@ -55,7 +58,7 @@ Sou especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre em busca d
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stevencl7/stevencl7/master/assets/images/cat.gif" width="50" /> 
+  <img src="https://i.pinimg.com/564x/0e/25/66/0e2566ffbececac696f5a20f4e4d77b4.jpg" width="50" /> 
   <br>
   <i>"Talento não é nada sem esforço." - Roronoa Zoro</i> ⚔️
 </p>
