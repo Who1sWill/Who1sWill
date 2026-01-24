@@ -17,7 +17,6 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
 * **🐍 Python & Scripting:** Desenvolvendo automações inteligentes e APIs modernas com **FastAPI**.
 * **☁️ DevOps & Cloud:** Estudando para navegar com maestria por **Terraform, Kubernetes e Helm**.
 * **🤖 Inteligência Artificial:** Iniciando estudos e expandindo o kit de ferramentas com IA e Python para **AIOps**.
-
 ### 📊 Minhas Estatísticas:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
