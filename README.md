@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" width="300" alt="Luffy Coding/Happy" />
-  <p><i>"Vou me lançar ao mar!" 🏴‍☠️</i></p>
+  <p>🏴‍☠️</p>
 </div>
 
 ---
