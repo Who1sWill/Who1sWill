@@ -15,7 +15,9 @@ Sou especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre em busca d
 * **🤖 Inteligência Artificial:** Expandindo o kit de ferramentas com estudos em IA e Python para **AIOps**.
 * **☁️ DevOps & Cloud:** Navegando com maestria por **Terraform, Kubernetes e Helm**.
 
----
+<div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a35bd6-27ab-46cd-b8f1-cacb0a51d88c/dijhtun-05bef81c-a945-40db-8e9e-ab55a329d3a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNWEzNWJkNi0yN2FiLTQ2Y2QtYjhmMS1jYWNiMGE1MWQ4OGMvZGlqaHR1bi0wNWJlZjgxYy1hOTQ1LTQwZGItOGU5ZS1hYjU1YTMyOWQzYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vkFs6SBGNTQU-lxqbYNnICT_SFWddyuKPaJPQ8HXoK8" width="300" alt="Jojo" />
+</div>
 
 ### 📊 Minhas Estatísticas:
 
