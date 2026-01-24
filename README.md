@@ -1,10 +1,11 @@
 # Olá, eu sou o William! 👋 🐱
+---
 <div align="center">
   <img src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" width="300" alt="Luffy Coding/Happy" />
   <p>🏴‍☠️</p>
 </div>
 
----
+
 ### 🚀 Sobre Mim
 Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre em busca da "Última Ilha" do conhecimento tecnológico. No meu tempo livre, sou tutor do **Jojo** e do **Miumiu** e um grande fã de **One Piece**.
 
@@ -23,7 +24,7 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
----
+
 ### 🛠️ Tecnologias e Ferramentas:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -33,7 +34,7 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </div>
 
----
+
 ### 📫 Contatos e Redes Sociais:
 <div align="center">
   <a href="https://www.linkedin.com/in/willmf/" target="_blank">
