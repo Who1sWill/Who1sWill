@@ -15,8 +15,8 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
 
 ### 📜 Meus estudos 
 * **🐍 Python & Scripting:** Desenvolvendo automações inteligentes e APIs modernas com **FastAPI**.
-* **🤖 Inteligência Artificial:** Expandindo o kit de ferramentas com estudos em IA e Python para **AIOps**.
 * **☁️ DevOps & Cloud:** Estudando para navegar com maestria por **Terraform, Kubernetes e Helm**.
+* **🤖 Inteligência Artificial:** Iniciando estudos e expandindo o kit de ferramentas com IA e Python para **AIOps**.
 
 ### 📊 Minhas Estatísticas:
 <div align="center">
@@ -31,7 +31,6 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="AI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </div>
 
