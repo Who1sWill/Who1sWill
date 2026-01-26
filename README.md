@@ -1,9 +1,4 @@
 # Olá, eu sou o William! 👋 🐱
-<div align="center">
-  <img src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" width="300" alt="Luffy Coding/Happy" />
-  <p>🏴‍☠️</p>
-</div>
-
 ## 🚀 Sobre Mim
 Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempre buscando a "Última Ilha" do conhecimento tecnológico. No meu tempo livre, sou tutor do **Jojo** e do **Miumiu** e um grande fã de **One Piece**.
 <div align="center">
@@ -20,8 +15,8 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
 ---
 ## 📊 Minhas Estatísticas:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=highcontrast&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=highcontrast" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=merko&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=merko" />
 </div>
 
 ---
