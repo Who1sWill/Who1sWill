@@ -14,8 +14,8 @@ Quero me tornar especialista em **Infraestrutura Cloud e Cultura DevOps**, sempr
 ---
 ## 📊 Minhas Estatísticas:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=gruvbox&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Who1sWill&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Who1sWill&layout=compact&langs_count=7&theme=onedark" />
 </div>
 
 ---
